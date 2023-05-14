@@ -159,7 +159,7 @@ close all
 %% results of the analyses already calculated
 conditions = {'low_report','mid_report','high_report','low_stimulus',...
     'mid_stimulus','high_stimulus'};
-load('../data/fmri_data/xclass_results_figure_6.mat')
+load('../data/fmri_data/xclass_results_figure_8.mat')
 n_subj = 23;
 figure();
 for p_ = 1:size(mean_bal_acc_c,2)
