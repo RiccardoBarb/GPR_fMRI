@@ -1,7 +1,8 @@
 # GPR_fMRI
 
-This code belongs to the paper *"Encoding of continuous perceptual choices in human early visual cortex"* by Barbieri, Töpfer et al. (2023), currently available as a preprint. It consists of a collection MATLAB scripts and functions for reproducing the main analyses described in the paper. The necessary data to be used for performing the analyses is currently available OSF.
+This code belongs to the paper *"Encoding of continuous perceptual choices in human early visual cortex"* by Barbieri, Töpfer et al. (2023), published in Frontiers In Human Neuroscience. It consists of a collection MATLAB scripts and functions for reproducing the main analyses described in the paper. The necessary data to be used for performing the analyses is currently available OSF.
 
+- Peer reviewed publication: [Encoding of continuous perceptual choices in human early visual cortex](https://doi.org/10.3389/fnhum.2023.1277539)
 - Preprint: [Encoding of continuous perceptual choices in human early visual cortex](https://www.biorxiv.org/content/10.1101/2023.02.10.527876v)
 - Data: [OSF Project Repository](https://osf.io/vcmdg/)
 
